@@ -1,0 +1,8 @@
+pandas
+numpy
+geopandas
+shapely
+plotly
+chart-studio
+matplotlib
+seaborn
