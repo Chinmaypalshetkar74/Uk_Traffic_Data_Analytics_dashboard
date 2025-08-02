@@ -3,7 +3,7 @@ import streamlit.components.v1 as components
 import os
 
 # Folder where HTMLs are saved
-html_folder = r"Notebooks/html_visuals"
+html_folder = "Notebooks/html_visuals"
 
 # Mapping tab titles to their HTML files
 html_files = {

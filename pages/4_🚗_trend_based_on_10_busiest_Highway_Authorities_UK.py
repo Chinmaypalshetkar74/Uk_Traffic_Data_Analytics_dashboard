@@ -6,7 +6,7 @@ st.set_page_config(layout="wide")
 st.title("🚗 Vehicles Traffic Flow in UK Regions (2000 - 2024)")
 st.subheader("trend on Top 10 busiest Highway Authority Roads")
 # Folder where HTML charts are stored
-html_folder = r"Notebooks\html_visuals"
+html_folder = "Notebooks\html_visuals"
 
 # Tabs and corresponding HTML filenames
 tabs = st.tabs([
