@@ -7,7 +7,7 @@ st.title("🚗 Vehicles Traffic Flow in UK Region(2000 - 2024)")
 st.subheader("trend on Major Road Classes")
 
 # Folder where HTML charts are stored
-html_folder = "Notebooks\html_visuals"
+html_folder = "Notebooks/html_visuals"
 
 # Tabs and corresponding HTML filenames
 tabs = st.tabs([
