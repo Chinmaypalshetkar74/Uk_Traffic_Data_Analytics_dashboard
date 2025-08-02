@@ -6,3 +6,4 @@ plotly
 chart-studio
 matplotlib
 seaborn
+streamlit
